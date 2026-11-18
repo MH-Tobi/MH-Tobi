@@ -1,23 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&height=150&color=FF0000&text=Under%20construction🔨&section=header&textBg=false&reversal=false&descAlign=50&descAlignY=67&fontAlign=50)
+# 👋 Hey, I'm Tobias!
 
-![header](https://capsule-render.vercel.app/api?type=speech&height=250&color=gradient&text=Hi%20there&section=header&textBg=false&desc=Welcome%20to%20%20my%20(not%20really%20impressive😬)%20GitHub-Profile&reversal=false&descAlign=50&descAlignY=67&fontAlign=35)
+### 🚀 QA Engineer | Test Automation | Python Developer
 
-# What can I tell you about myself?
+**Turning complex challenges into smart software solutions.**
 
-Mhhh... I come from Germany and live just under an hour south of Berlin.
-I am 36 years young :baby: and currently looking for a new professional challenge.
+I'm a software testing and quality assurance professional with a strong passion for Python development, test automation, and innovative technologies.
 
-I am a qualified automotive mechatronics technician and a graduate in automotive engineering.
+I combine analytical thinking, technical expertise, and a hands-on mindset to develop efficient solutions and continuously improve software quality.
 
-Over the past 8 years, I have gained some professional experience as a project engineer for testing and validation in the automotive sector (including for BMW and MAN).
+I'm always looking to expand my knowledge, explore new technologies, and build projects that turn ideas into practical solutions.
 
-During this time, in addition to test development, I also developed various tools for test automation.
-Among other things, I created an Excel add-in to simplify test management, test development, and test analysis.
-Furthermore, I developed a Python tool that automatically defines and creates API interface tests for Ethernet/SomeIP communication.
+---
 
-If you would like to learn more about my professional career, please feel free to check out [my LinkedIn profile](www.linkedin.com/in/tobias-pflug-282a8b318).
+## 🧑‍💻 About Me
 
-# Which languages ​​and tools have I used so far?
+- 🔍 Focused on **Software Testing, QA & Test Automation**
+- 🐍 Passionate about **Python development**
+- ⚙️ Interested in automation, software quality, and process optimization
+- 📊 Enjoy working with data processing and visualization
+- 🤖 Exploring **Machine Learning & Artificial Intelligence**
+- 📚 Committed to continuous learning and professional development
+- 🎯 Always looking for new challenges and opportunities to grow
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming & Development
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
@@ -36,5 +45,56 @@ If you would like to learn more about my professional career, please feel free t
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" alt="Qt" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original-wordmark.svg" alt="Anaconda" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" alt="Matlab" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain.svg" alt="AWS" width="45" height="45"/>
 </p>
-and many more...
+
+### Libraries & Data Processing
+
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Tkinter-3776AB?style=for-the-badge"/>
+</p>
+
+### Software Quality & Testing
+
+<p>
+  <img src="https://img.shields.io/badge/Software_Testing-2C3E50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Test_Automation-00549F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Quality_Assurance-27AE60?style=for-the-badge"/>
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MH-Tobi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MH-Tobi&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=MH-Tobi&theme=tokyonight&hide_border=true" width="70%"/>
+</p>
+
+---
+
+## 🌱 Currently Learning & Exploring
+
+- Advanced Test Automation
+- ISTQB Certified Tester – Test Automation Engineer
+- Machine Learning
+- Artificial Intelligence & AI-assisted development
+- Modern software engineering practices
+
+---
+
+## 🤝 Let's Connect!
+
+I'm always open to interesting projects, technical discussions, and opportunities to learn something new.
+
+**Feel free to explore my repositories and connect!** 🚀
+
+If you would like to learn more about my professional career, please feel free to check out [my LinkedIn profile](www.linkedin.com/in/tobias-pflug-282a8b318).
+
